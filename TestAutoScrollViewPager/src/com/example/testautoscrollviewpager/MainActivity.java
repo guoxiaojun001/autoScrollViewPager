@@ -9,8 +9,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.crowbar.widget.loopviewpager.AutoScrollLoopViewPager;
-import com.crowbar.widget.loopviewpager.LoopViewPager.OnUpdateTitleListener;
+import com.example.testautoscrollviewpager.widget.AutoScrollLoopViewPager;
+import com.example.testautoscrollviewpager.widget.LoopViewPager.OnUpdateTitleListener;
 
 public class MainActivity extends Activity {
 

@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="160.0dip" >
 
-        <com.crowbar.widget.loopviewpager.AutoScrollLoopViewPager
+        <com.example.testautoscrollviewpager.widget.AutoScrollLoopViewPager
             android:id="@+id/view_pager"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
