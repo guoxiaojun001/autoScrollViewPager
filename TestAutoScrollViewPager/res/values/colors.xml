@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_red_n">#FFFF6666</color>
+    <color name="button_red_p">#FFCC5252</color>
+    <color name="bg_title_bar">#f5f5f5</color>
+    <color name="divider_titlebar">#fafafa</color>
+    <color name="divider_normal">#dcdcdc</color>
+    <color name="green">#109600</color>
+    <color name="green_light_n">#5eba42</color>
+    <color name="green_light_p">#4da034</color>
+    <color name="green_light2">#55109600</color>
+    <color name="color_action_txt">#4cb200</color>
+    <color name="yellow">#efea38</color>
+    <color name="orange_n">#ffffc727</color>
+    <color name="orange_p">#ffdcad29</color>
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
+    <color name="text_black_dark">#ff424242</color>
+    <color name="text_black_light">#33424242</color>
+    <color name="gray_dark">#ff414141</color>
+    <color name="gray_light">#33414141</color>
+    <color name="gray_light3">#66414141</color>
+    <color name="gray_light4">#99414141</color>
+    <color name="gray_light5">#aa414141</color>
+    <color name="text_blue">#1C86EE</color>
+    <color name="text_green">#63ba1b</color>
+    <color name="purple">#640778</color>
+
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+
+    <color name="transparent">#00000000</color>
+    <color name="black_translucent">#40000000</color>
+    <color name="white_translucent">#40ffffff</color>
+    <color name="gray_light_translucent">#40303030</color>
+    <color name="gray_light2">#ffe0e0e0</color>
+    <color name="background">#fff0f0f0</color>
+    <color name="selector_listview_n">#80a2cae2</color>
+    <color name="selector_listview_p">#a8a2cae2</color>
+    <color name="btn_green_n">#ff5eba42</color>
+    <color name="btn_green_p">#ff4da034</color>
+    <color name="fresco_default_placeholder">#e1e4eb</color>
+    <color name="fresco_default_error">#ff9999</color>
+
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="dark_orange">#f05806</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red">#ffff0000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc4444</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="text_normal_black">#5a5a5a</color>
+
+</resources>
